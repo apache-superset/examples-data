@@ -1,4 +1,4 @@
-OrderNumber,QuantityOrdered,PriceEach,OrderLineNumber,Sales,OrderDate,Status,Quarter,Month,Year,ProductLine,MSRP,ProductCode,CustomerName,Phone,AddressLine1,AddressLine2,City,State,PostalCode,Country,Territory,ContactLastName,ContactFirstName,DealSize
+order_number,quantity_ordered,price_each,order_line_number,sales,order_date,status,quarter,month,year,product_line,msrp,product_code,customer_name,phone,address_line1,address_line2,city,state,postal_code,country,territory,contact_last_name,contact_first_name,deal_size
 10107,30,95.7,2,2871,2/24/2003,Shipped,1,2,2003,Motorcycles,95,S10_1678,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,,Yu,Kwai,Small
 10121,34,81.35,5,2765.9,5/7/2003,Shipped,2,5,2003,Motorcycles,95,S10_1678,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Small
 10134,41,94.74,2,3884.34,7/1/2003,Shipped,3,7,2003,Motorcycles,95,S10_1678,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium
